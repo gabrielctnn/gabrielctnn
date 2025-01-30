@@ -30,9 +30,3 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gabrielctnn/gabrielctnn/output/snake.svg" alt="Snake animation" />
-
-###
