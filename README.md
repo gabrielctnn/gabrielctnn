@@ -1,5 +1,6 @@
-# Olá, me chamo Gabriel.
-Interresado nas areas de programaçao e design.
+#👋 Olá, eu sou Gabriel!
+💻 Desenvolvedor em formação, apaixonado por tecnologia e programação. Atualmente, estou cursando Informática para Internet na FIEB, onde venho construindo uma base sólida em desenvolvimento web.
+🚀 Porém atualmente meu foco principal está sendo entrar para área de desenvolvimento de software, e atualmente estou aprimorando minhas habilidades e conhecendo C#. Busco aprender cada vez mais sobre programação orientada a objetos, padrões de design e boas práticas para criar aplicações robustas e eficientes.
 
 ![Gabrielctnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielctnn&show_icons=true&theme=midnight-purple)
 
