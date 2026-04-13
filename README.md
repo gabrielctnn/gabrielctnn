@@ -1,27 +1,29 @@
-<h1 align="left">Olá 👋! Prazer, Gabriel!</h1>
+# Olá 👋! Prazer, Gabriel!
 
-###
+Sou um desenvolvedor movido pelo desafio de transformar lógica complexa em soluções eficientes e elegantes. Atualmente, curso **Ciência da Computação na UNIP**, onde aprofundo meus conhecimentos em algoritmos e estrutura de dados. Minha jornada na tecnologia começou com uma base sólida no ensino técnico e hoje evolui para a construção de sistemas robustos e escaláveis, sempre priorizando as melhores práticas de desenvolvimento e a escrita de código limpo.
 
-<h5 align="left">💻 Desenvolvedor em formação, apaixonado por tecnologia e programação. Atualmente, estou cursando Informática para Internet na FIEB, onde venho construindo uma base sólida em desenvolvimento web.<br><br>🚀 Porém atualmente meu foco principal está sendo entrar para área de desenvolvimento de software, e atualmente estou aprimorando minhas habilidades e conhecendo C#. Busco aprender cada vez mais sobre programação orientada a objetos, padrões de design e boas práticas para criar aplicações robustas e eficientes.</h5>
+---
 
-###
+### 🚀 Sobre Mim
+- 🎓 **Educação:** Técnico em Informática para Internet (FIEB) e graduando em Ciência da Computação (UNIP).
+- 🛠️ **Foco Atual:** Especialização em **Java**
+---
 
-###
+### 💻 Stack Tecnológica
 
+**Linguagens Principais:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Ferramentas & IDEs:**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-</div>
+  <img height="180em" src="https
