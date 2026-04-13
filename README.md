@@ -25,5 +25,8 @@ Sou um desenvolvedor movido pelo desafio de transformar lógica complexa em solu
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielctnn/gabrielctnn/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielctnn/gabrielctnn/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gabrielctnn/gabrielctnn/output/snake.svg">
+</picture>
